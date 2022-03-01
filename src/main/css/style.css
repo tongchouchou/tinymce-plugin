@@ -1,0 +1,9 @@
+.ocrDialog{
+    width:280px;
+    height:220px;
+    background-color: #c3c3c3;
+    position: fixed;
+    left: 50%;
+    top: 45px;
+    transform: translateX(-50%);
+}
